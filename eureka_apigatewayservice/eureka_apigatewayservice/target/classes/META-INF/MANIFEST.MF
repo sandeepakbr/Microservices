@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka_apigatewayservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sakumar
+Implementation-Vendor-Id: com.springboot.apigateway
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/eureka_apig
+ atewayservice
+Created-By: Maven Integration for Eclipse
+
